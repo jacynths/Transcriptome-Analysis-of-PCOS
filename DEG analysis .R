@@ -1,4 +1,4 @@
-#Part II: DEG Analysis
+#Part II: Differential Gene Esxpression Analysis
 
 #install libraries
 install.packages("BiocManager")
