@@ -1,4 +1,4 @@
-#Part III: Enrichment Analysis
+#Part III: Functional Enrichment Analysis
 
 #install libraries
 install.packages("BiocManager")
