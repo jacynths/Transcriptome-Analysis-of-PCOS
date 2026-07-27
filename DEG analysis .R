@@ -1,6 +1,4 @@
-#Mini Project: DEG Analysis on PCOS dataset 
 #Part II: DEG Analysis
-#by Ananya V
 
 #install libraries
 install.packages("BiocManager")
