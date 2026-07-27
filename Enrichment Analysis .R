@@ -1,6 +1,4 @@
-#Mini Project: DEG Analysis on PCOS dataset 
 #Part III: Enrichment Analysis
-#by Ananya V
 
 #install libraries
 install.packages("BiocManager")
